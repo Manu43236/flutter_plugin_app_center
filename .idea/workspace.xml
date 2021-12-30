@@ -13,7 +13,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="475602a6-84f3-42d1-8418-c23c6c360171" name="Default Changelist" comment="initial commit" />
+    <list default="true" id="475602a6-84f3-42d1-8418-c23c6c360171" name="Default Changelist" comment="iml files">
+      <change beforePath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app_center/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/app_center/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app_center_analytics/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/app_center_analytics/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app_center_crashes/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/app_center_crashes/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640871701059</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="iml files">
+      <created>1640872118108</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640872118108</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,12 +79,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="iml files" />
+    <option name="LAST_COMMIT_MESSAGE" value="iml files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="324" y="139" key="Vcs.Push.Dialog.v2" timestamp="1640871706069">
+    <state x="324" y="139" key="Vcs.Push.Dialog.v2" timestamp="1640872120276">
       <screen x="0" y="25" width="1440" height="815" />
     </state>
-    <state x="324" y="139" key="Vcs.Push.Dialog.v2/0.25.1440.815@0.25.1440.815" timestamp="1640871706069" />
+    <state x="324" y="139" key="Vcs.Push.Dialog.v2/0.25.1440.815@0.25.1440.815" timestamp="1640872120276" />
   </component>
 </project>
